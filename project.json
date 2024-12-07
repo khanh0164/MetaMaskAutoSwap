@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "MetaMaskAutoSwap",
+  "id": "8f8bfa12-3e3e-49a8-8538-a010d89e7529",
+  "version": "2.4.10",
+  "isNew": false
+}
